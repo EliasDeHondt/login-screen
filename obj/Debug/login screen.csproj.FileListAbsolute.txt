@@ -1,0 +1,16 @@
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\bin\Debug\login screen.exe.config
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\bin\Debug\login screen.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\bin\Debug\login screen.pdb
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\MainWindow.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\App.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen_MarkupCompile.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen_MarkupCompile.lref
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\MainWindow.baml
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.g.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login_screen.Properties.Resources.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\login screen\login screen\obj\Debug\login screen.pdb
